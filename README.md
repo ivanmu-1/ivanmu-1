@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Ivan Mu and Welcome to my Profile Folder! 
+👋 Hi, I’m Ivan Mu and Welcome to my profile! 
