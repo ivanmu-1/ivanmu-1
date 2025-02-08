@@ -1,5 +1,6 @@
 👋 Hi, I’m Ivan Mu and Welcome to my profile! 
-![Tableau](img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/)
+
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white")
 ![Power BI](https://img.shields.io/badge/Power_BI-D83B01?logo=Power_BI&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white)
