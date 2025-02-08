@@ -22,9 +22,21 @@ I am a Computer Information Systems student at Cal Poly Pomona, minoring in Tech
 
 # Projects: 
 
+* [Tableau Portfolio](https://github.com/ivanmu-1/Tableau-Portfolio)
+
+* [Power BI Portfolio](https://github.com/ivanmu-1/PowerBI-Portfolio)
+
+* [SQL Portfolio](https://github.com/ivanmu-1/SQL-Portfolio)
+  - Additional Project: [SQL IBM HR Analysis](https://github.com/ivanmu-1/IBM-HR-Analysis)
+  - Work in progress....
+
+
+
+
+
 
 # Contact with me
-* (Linkedin)[https://www.linkedin.com/feed/]
+* [Linkedin](https://www.linkedin.com/feed/)
 
 
 
