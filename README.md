@@ -1,4 +1,7 @@
+
 👋 Hi, I’m Ivan Mu and Welcome to my profile! 
+
+I am a Computer Information Systems student at Cal Poly Pomona, minoring in Technology Operations Management. This portfolio showcases my collection of projects, highlighting my skills in data analysis, business intelligence, and technology operations. I am actively seeking opportunities to apply my expertise, so feel free to reach out! 😊
 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white")
 ![Power BI](https://img.shields.io/badge/Power_BI-D83B01?logo=Power_BI&logoColor=white)
@@ -17,6 +20,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
+# Projects: 
+
+
+# Contact with me
+* (Linkedin)[https://www.linkedin.com/feed/]
 
 
 
