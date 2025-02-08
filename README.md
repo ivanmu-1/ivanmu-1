@@ -35,7 +35,7 @@ I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Tech
   - Additional Project: [SQL IBM HR Analysis](https://github.com/ivanmu-1/IBM-HR-Analysis)
 
 
-Check out my repos ⬇️
+
 
 
 
@@ -45,5 +45,6 @@ Check out my repos ⬇️
 
 
 
+Check out my repos ⬇️
 
 
