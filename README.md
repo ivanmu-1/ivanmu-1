@@ -3,6 +3,7 @@
 
 I am a Computer Information Systems student at Cal Poly Pomona, minoring in Technology Operations Management. This portfolio showcases my collection of projects, highlighting my skills in data analysis, business intelligence, and technology operations. I am actively seeking opportunities to apply my expertise, so feel free to reach out! 😊
 
+---
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white")
 ![Power BI](https://img.shields.io/badge/Power_BI-D83B01?logo=Power_BI&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
