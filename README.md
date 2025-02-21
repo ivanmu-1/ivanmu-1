@@ -31,8 +31,9 @@ I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Tech
 
 * [Power BI Portfolio](https://github.com/ivanmu-1/PowerBI-Portfolio)
 
-* [SQL Portfolio](https://github.com/ivanmu-1/SQL-Portfolio) Working in progress..... 
-  - Additional Project: [SQL IBM HR Analysis](https://github.com/ivanmu-1/IBM-HR-Analysis)
+* [SQL Portfolio](https://github.com/ivanmu-1/SQL-Portfolio)
+
+* [Excel Portfolio]()
 
 
 
