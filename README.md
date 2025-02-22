@@ -33,7 +33,7 @@ I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Tech
 
 * [SQL Portfolio](https://github.com/ivanmu-1/SQL-Portfolio)
 
-* [Excel Portfolio]()
+* [Excel Portfolio](https://github.com/ivanmu-1/Excel-Portfolio-)
 
 
 
