@@ -1,7 +1,7 @@
 
-#  👋 Hello, I’m Ivan Mu and Welcome to my profile!
+# Hello, I’m Ivan Mu and Welcome to my profile!
 
-I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Technology Operations Management. This portfolio showcases my collection of projects, highlighting my skills in data analysis, business intelligence, and technology operations. I am actively seeking opportunities to apply my expertise, so feel free to reach out! 😊
+I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Technology Operations Management. This portfolio showcases my collection of projects, highlighting my skills in data analysis, business intelligence, and technology operations. I am actively seeking opportunities to apply my expertise, so feel free to reach out!
 
 ---
 
