@@ -41,8 +41,6 @@ I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Tech
 
 
 
-### 📪 Contact with me
-* [Linkedin](https://www.linkedin.com/feed/)
 
 
 
