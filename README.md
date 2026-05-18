@@ -23,7 +23,7 @@ I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Tech
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
-#
+---
 
 # Projects: 
 
@@ -38,12 +38,5 @@ I'm an Computer Information Systems student at Cal Poly Pomona, minoring in Tech
 
 
 
-
-
-
-
-
-
-Check out my repos ⬇️
 
 
